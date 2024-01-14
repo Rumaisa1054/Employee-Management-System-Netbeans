@@ -1,3 +1,7 @@
+Schema of DataBase:
+
+![Picture14](https://github.com/Rumaisa1054/Employee-Management-System-Netbeans/assets/105513477/d7f5ae40-59c4-4953-ae4f-d6e8e1ec4dc7)
+
 INTERFACE DESIGNED:
 
 Registration For Employees / Users: 
